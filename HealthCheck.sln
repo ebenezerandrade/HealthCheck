@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "HealthCheck", "HealthCheck\HealthCheck.esproj", "{F659C6AF-E76B-4AC7-9FEB-1DEBD873DC17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthCheckAPI", "HealthCheckAPI\HealthCheckAPI.csproj", "{40017B2D-8FD9-4ADE-8DA5-CCDE3F325C33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F659C6AF-E76B-4AC7-9FEB-1DEBD873DC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F659C6AF-E76B-4AC7-9FEB-1DEBD873DC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F659C6AF-E76B-4AC7-9FEB-1DEBD873DC17}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F659C6AF-E76B-4AC7-9FEB-1DEBD873DC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F659C6AF-E76B-4AC7-9FEB-1DEBD873DC17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F659C6AF-E76B-4AC7-9FEB-1DEBD873DC17}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{40017B2D-8FD9-4ADE-8DA5-CCDE3F325C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40017B2D-8FD9-4ADE-8DA5-CCDE3F325C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40017B2D-8FD9-4ADE-8DA5-CCDE3F325C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40017B2D-8FD9-4ADE-8DA5-CCDE3F325C33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F8D75EB-AB6D-4F2F-A482-07499027B66B}
+	EndGlobalSection
+EndGlobal
